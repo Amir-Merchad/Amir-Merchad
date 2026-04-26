@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:amiermerchad@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/amir-merchad">LinkedIn</a> •
+  <a href="[https://linkedin.com/in/amir-merchad](https://www.linkedin.com/in/amir-merchad-9ab916320)">LinkedIn</a> •
   <a href="https://github.com/Amir-Merchad">GitHub</a>
 </p>
 
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 CS Student @ TU Dortmund (2nd semester)  
+- 🎓 CS Student @ TU Dortmund (3rd semester)  
 - 🧠 Building **production systems**, not just projects  
 - 💼 POS system used by **30+ businesses**  
 - 🏗️ Focus: scalable business systems (POS / ERP)  
