@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:amiermerchad@gmail.com">Email</a> •
-  <a href="[https://linkedin.com/in/amir-merchad](https://www.linkedin.com/in/amir-merchad-9ab916320)">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/amir-merchad-9ab916320">LinkedIn</a> •
   <a href="https://github.com/Amir-Merchad">GitHub</a>
 </p>
 
