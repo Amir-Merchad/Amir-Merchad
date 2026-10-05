@@ -1,97 +1,37 @@
-<h1 align="center">Hi 👋, I'm Amir</h1>
+# Amir Merchad
 
-<p align="center">
-  <b>Computer Science Student @ TU Dortmund</b><br>
-  <i>Building real-world systems (POS • ERP • Full-Stack)</i>
-</p>
+Computer science student at **TU Dortmund**, based in Dortmund, Germany. I build business applications and am looking for a **Werkstudent software development role, available immediately**.
 
-<p align="center">
-  <a href="mailto:amiermerchad@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/amir-merchad-9ab916320">LinkedIn</a> •
-  <a href="https://github.com/Amir-Merchad">GitHub</a>
-</p>
+My experience includes a commercial POS product used in around **30 shops in Lebanon**, part-time Flutter development, and a community website built with another computer science student. My current learning and project focus is **Kotlin, Spring Boot, PostgreSQL, and Flutter**.
 
----
+[Email](mailto:amirmerchad@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amir-merchad-9ab916320)
 
-## 🚀 About Me
+## Selected work
 
-- 🎓 CS Student @ TU Dortmund (3rd semester)  
-- 🧠 Building **production systems**, not just projects  
-- 💼 POS system used by **30+ businesses**  
-- 🏗️ Focus: scalable business systems (POS / ERP)  
+### [Inventory Playground](https://github.com/Amir-Merchad/inventory-playground)
 
----
+A learning prototype connecting a **Kotlin/Spring Boot REST API**, **PostgreSQL**, and a **Flutter** client. The source includes product CRUD, search and pagination, request validation, and version-based update checks. It is a place to develop and test backend/frontend skills; the broader ERP/POS product is still at an early stage.
 
-## 🏆 Key Projects
+### [Commercial Access POS — case study](docs/pos-case-study.md)
 
-### 💼 POS System
-- Used daily by 30+ businesses  
-- Billing, reporting, analytics  
-- Role-based access & multi-device usage  
-- Migration → Flutter + Spring Boot + PostgreSQL  
+Co-developed and sold with my father, in production since **2020** and currently used in around **30 shops in Lebanon**. My work includes sales, reporting, and user-management functionality using **MS Access, SQL, and VBA**, with ongoing maintenance and improvement. The case study explains the product and selected engineering work; the commercial source and customer databases remain private.
 
----
+### [Niha-Chouf community website](https://www.niha-chouf.com)
 
-### 🛍️ E-Commerce App
-- Flutter (mobile + desktop)  
-- REST API integration  
-- Clean UI + structured state  
+A multilingual website built with another computer science student using **HTML/CSS, TypeScript/JavaScript, and Vite**. We implemented a CI/CD pipeline for production deployment and configured the custom domain. [Project overview](https://github.com/Niha-Website/Niha-Website).
 
----
+## Professional experience
 
-### 💼 Electricity Meter Tracking App
-- Flutter (mobile + desktop)
-- Authentication and realtime data sync using Supabase
-- PosgreSQL database
+**Flutter Developer, part-time — 4D-Blocks | August 2025–February 2026**  
+Worked remotely from Germany on a mobile/desktop e-commerce and ERP application: reusable UI components, state management, and REST API integration for products, orders, and users.
 
----
+## How I work
 
-### 🌐 Village Website
-- HTML • CSS • TypeScript • Vite  
-- Real users, multilingual content  
+- **Applied experience:** Flutter/Dart, REST APIs, SQL/VBA, MS Access, web development, Git, and CI/CD.
+- **Developing further:** Kotlin/Spring Boot and PostgreSQL through the inventory prototype and ERP/POS exploration with a fellow student.
+- **Foundational knowledge:** C/C++, React, native Android development with Kotlin, and Kotlin Multiplatform.
+- **Collaboration:** Scrum-based task planning and tracking with Atlassian tools.
+- **AI-assisted development:** Claude Code, prompt engineering, and plugins/mods for structured development tasks and learning unfamiliar technologies.
 
----
-
-## 🧰 Tech Stack
-
-### 🚀 Core
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-</p>
-
-### 🧠 Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-</p>
-
-### ⚙️ Tools & Backend Services
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amir-merchad&show_icons=true&theme=tokyonight"/>
-</p>
-
----
-
-<p align="center">
-  <i>“I build systems that actually get used.”</i>
-</p>
+**B.Sc. Informatik:** TU Dortmund, since April 2025; expected graduation April–August 2028.  
+**Languages:** German C1 · English C1 · French B2 · Arabic native.
