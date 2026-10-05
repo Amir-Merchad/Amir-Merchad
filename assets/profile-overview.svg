@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">Amir Merchad - software that serves real businesses</title><desc id="desc">Computer science at TU Dortmund. Commercial POS since 2020, around 30 shops, Flutter experience and Kotlin/Spring Boot project focus.</desc>
+<rect width="1200" height="350" rx="20" fill="#112D3A"/>
+<path d="M1020 0L1200 0L1200 210Z" fill="#173C48"/><circle cx="1090" cy="74" r="42" fill="none" stroke="#4DC9B7" stroke-width="2"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="40" y="43" fill="#7DE0CB" font-size="15" letter-spacing="2">COMPUTER SCIENCE · TU DORTMUND</text>
+<text x="40" y="99" fill="#FFFFFF" font-size="44" font-weight="700">Amir Merchad</text>
+<text x="40" y="139" fill="#D7E6EC" font-size="23">Building software for real business workflows.</text>
+<text x="40" y="174" fill="#B3C9D2" font-size="18">Dortmund, Germany · Seeking a Werkstudent role · Available immediately</text>
+<g fill="#1D4250"><rect x="40" y="211" width="345" height="105" rx="12"/><rect x="402" y="211" width="345" height="105" rx="12"/><rect x="764" y="211" width="396" height="105" rx="12"/></g>
+<g fill="#FFFFFF" font-weight="700" font-size="27"><text x="62" y="252">~30 shops</text><text x="424" y="252">Flutter experience</text><text x="786" y="252">Kotlin + Spring Boot</text></g>
+<g fill="#BDD2DA" font-size="17"><text x="62" y="287">Commercial POS · live since 2020</text><text x="424" y="287">Part-time development · 4D-Blocks</text><text x="786" y="287">Current focus · PostgreSQL + Flutter</text></g></g></svg>

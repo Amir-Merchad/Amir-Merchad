@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="520" viewBox="0 0 1100 520" role="img" aria-labelledby="title desc">
+<title id="title">Carto POS - from checkout to business reporting</title><desc id="desc">Sales, payments and stock feed customer accounts and reporting. Each till has an Access front end connected to a shared shop database. USD and LBP, Arabic and English.</desc>
+<rect width="1100" height="520" rx="18" fill="#F2F7F8"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="35" y="46" fill="#183A4A" font-size="25" font-weight="700">One shop. Connected daily workflows.</text>
+<text x="35" y="77" fill="#53636D" font-size="16">Commercial Access POS · Product overview, not an application screenshot</text>
+<g fill="#FFFFFF" stroke="#C9DBDF"><rect x="35" y="106" width="243" height="114" rx="12"/><rect x="296" y="106" width="243" height="114" rx="12"/><rect x="557" y="106" width="243" height="114" rx="12"/><rect x="818" y="106" width="247" height="114" rx="12"/></g>
+<g fill="#183A4A" font-size="22" font-weight="700"><text x="54" y="143">Sell &amp; return</text><text x="315" y="143">Take payments</text><text x="576" y="143">Manage stock</text><text x="837" y="143">Review the day</text></g>
+<g fill="#53636D" font-size="16"><text x="54" y="176">Receipts and invoices</text><text x="54" y="201">Customer accounts</text><text x="315" y="176">Cash and cheques</text><text x="315" y="201">US dollars and LBP</text><text x="576" y="176">Items and quantities</text><text x="576" y="201">Purchases and suppliers</text><text x="837" y="176">Cashier reconciliation</text><text x="837" y="201">Sales and stock reports</text></g>
+<text x="35" y="267" fill="#183A4A" font-size="21" font-weight="700">Architecture</text>
+<rect x="35" y="287" width="275" height="105" rx="12" fill="#183A4A"/><rect x="35" y="407" width="275" height="78" rx="12" fill="#183A4A"/>
+<g fill="#FFFFFF" font-size="20" font-weight="700"><text x="55" y="322">Cashier workstation</text><text x="55" y="440">Additional workstation</text></g>
+<g fill="#CBE0E7" font-size="16"><text x="55" y="354">Access forms, VBA, queries</text><text x="55" y="462">Its own Access front end</text></g>
+<path d="M310 340H369V387H420M310 447H369V387" stroke="#279480" stroke-width="3" fill="none"/><path d="M410 381L420 387L410 393" fill="none" stroke="#279480" stroke-width="3"/>
+<rect x="425" y="318" width="287" height="140" rx="12" fill="#DDF1EB" stroke="#8BC8BB"/>
+<text x="447" y="357" fill="#183A4A" font-size="21" font-weight="700">Shared shop database</text><g fill="#315860" font-size="16"><text x="447" y="391">Sales · Stock · Payments</text><text x="447" y="420">Customers · Users · Settings</text></g>
+<text x="761" y="327" fill="#183A4A" font-size="20" font-weight="700">Working context</text><g fill="#53636D" font-size="17"><text x="761" y="362">Arabic and English</text><text x="761" y="392">USD and Lebanese pounds</text><text x="761" y="422">Multiple tills per shop</text><text x="761" y="452">Ongoing product maintenance</text></g></g></svg>

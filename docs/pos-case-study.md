@@ -1,4 +1,4 @@
-# Commercial POS: MS Access, SQL, and VBA
+# Carto POS | Commercial retail software
 
 **In production since 2020 · Around 30 shops in Lebanon · Co-developed and sold with my father**
 
@@ -8,19 +8,23 @@ This is a commercial application that I continue to maintain. It supports daily 
 
 I worked with my father to develop and sell the application to businesses. My development work includes sales, reporting, and user-management functions in MS Access, SQL, and VBA. I am currently working on further improvements to the existing product while exploring a separate ERP/POS platform with another computer science student.
 
+## Product showcase
+
+![Carto POS workflows and split Access architecture](../assets/pos-workflows.svg)
+
+| A shop needs to... | Application capability |
+|---|---|
+| Complete a sale and handle a return | Cash sales, customer invoices, receipts and return lines |
+| Accept and reconcile payments | Cash and cheque handling, US dollars and Lebanese pounds, cashier shifts |
+| Keep stock and purchasing records | Items, quantities, suppliers, purchases and stock reports |
+| Follow up customer balances | Customer accounts, payments on account and statements |
+| Review the business | Sales, profit, stock and other back-office reports |
+
+These describe the product's scope; my specific contribution is outlined above. The visual is an explanatory diagram, not a screenshot of the application. The current UI modernization is in development, so it should not be confused with the version deployed at shops.
+
 ## Application structure
 
-The application uses a split Microsoft Access architecture: a front end on each workstation contains forms, reports, queries, and VBA; a shared database stores shop data.
-
-```mermaid
-flowchart LR
-    A[Cashier workstation] --> B[Access front end: forms, VBA, queries, reports]
-    C[Another workstation] --> D[Access front end]
-    B --> E[(Shared shop database)]
-    D --> E
-```
-
-The system covers sales and payments, stock, customer accounts, and reporting. Working in Lebanon also involves amounts in US dollars and Lebanese pounds, along with Arabic and English interface/report text.
+Each workstation runs an Access front end containing forms, reports, queries and VBA. Workstations connect to a shared shop database. This makes transaction boundaries, stock consistency and coordination between tills important engineering concerns.
 
 ## Engineering example: cash-drawer reconciliation
 
