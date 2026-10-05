@@ -1,6 +1,8 @@
 ![Amir Merchad: TU Dortmund student, commercial POS in around 30 shops since 2020, Flutter experience, Kotlin/Spring Boot focus](assets/profile-overview.svg)
 
-**Computer science student at TU Dortmund**, based in Dortmund. I build business applications and am looking for a **Werkstudent software development role, available immediately**.
+**Computer science student at TU Dortmund with commercial POS and professional Flutter experience.** Based in Dortmund and available immediately for **Werkstudent software development roles**; also interested in suitable junior opportunities.
+
+I co-developed and sold a POS with my father that has been live since **2020** and is used by **around 30 shops in Lebanon**. My current focus is **Kotlin/Spring Boot, PostgreSQL and Flutter**, with an implemented inventory learning prototype you can inspect below.
 
 [Email](mailto:amirmerchad@gmail.com) · [LinkedIn](https://www.linkedin.com/in/amir-merchad-9ab916320) · [Commercial POS showcase](docs/pos-case-study.md)
 
@@ -20,11 +22,11 @@ Worked remotely from Germany on a mobile/desktop e-commerce and ERP application:
 **Commercial POS co-developer · 2020–present**  
 Development, sales and ongoing maintenance with my father. My work includes sales, reporting and user-management features in MS Access, SQL and VBA.
 
-## How I work
+## Skills and current focus
 
-| Applied experience | Current learning and project focus |
-|---|---|
-| Flutter/Dart, REST APIs, advanced SQL/VBA, MS Access, web development, Git and CI/CD | Kotlin/Spring Boot and PostgreSQL through the inventory prototype; early ERP/POS exploration with a fellow CS student |
+- **Applied experience:** Flutter/Dart, REST API integration, advanced SQL and VBA, MS Access, TypeScript/JavaScript, Git and CI/CD.
+- **Backend learning through implementation:** Kotlin/Spring Boot, PostgreSQL and Spring Data JPA in Inventory Playground. Its code has been inspected; application tests were not run during this portfolio review.
+- **Early-stage ERP/POS exploration:** Requirements, POS hardware and evaluation of components such as Moqui with a fellow CS student. This is separate from the live Access product and is not a completed microservice backend.
 
 - **AI-assisted development:** Claude Code, prompt engineering, plugins and mods for structured tasks and learning unfamiliar technologies; reviewing changes and checking behavior.
 - **Teamwork:** Scrum-based planning and task tracking with Atlassian tools.
